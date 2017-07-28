@@ -92,10 +92,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GND.cs" />
     <Compile Include="Assets\Scripts\Grid.cs" />
+    <Compile Include="Assets\Scripts\Trees.cs" />
+    <Compile Include="Assets\Scripts\Trigering.cs" />
     <Compile Include="Assets\Scripts\gridEditor.cs" />
+    <Compile Include="Assets\Scripts\menu.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Medieval-Tavern\License.txt" />
+    <None Include="Assets\Hand Painted Textures\Medieval-Tavern\License.txt" />
     <None Include="Assets\laxer tree pkg\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
