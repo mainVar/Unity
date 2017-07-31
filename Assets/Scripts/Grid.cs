@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿//!Copyright(C) 2017 Panchenko Vladislav 
+//!*****************************************************************************
+//! __Revisions:__
+//!  Date       | Author              | Comments
+//!  ---------- | ------------------- | ----------------
+//!  31/07/2017 | Panchenko Vladislav | Draw  grid by Gizmos
+//
+//******************************************************************************
+using UnityEngine;
 
 public class Grid : MonoBehaviour
 {

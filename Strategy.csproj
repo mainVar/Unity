@@ -92,6 +92,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GND.cs" />
     <Compile Include="Assets\Scripts\Grid.cs" />
+    <Compile Include="Assets\Scripts\READ_ME.cs" />
     <Compile Include="Assets\Scripts\Trees.cs" />
     <Compile Include="Assets\Scripts\Trigering.cs" />
     <Compile Include="Assets\Scripts\gridEditor.cs" />

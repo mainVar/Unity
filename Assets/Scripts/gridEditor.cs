@@ -1,8 +1,11 @@
-﻿
-/// Author: Kilosoft (Шаганов Артем)
-/// Version: 0.1
-/// Date: 26.09.2016
-/// 
+﻿//!Copyright(C) 2017 Panchenko Vladislav
+//!*****************************************************************************
+//! __Revisions:__
+//!  Date       | Author              | Comments
+//!  ---------- | ------------------- | ----------------
+//!  31/07/2017 | Panchenko Vladislav | sub menu / in update Draw grid
+//
+//******************************************************************************
 using UnityEngine;
 using UnityEditor;
 
@@ -17,10 +20,10 @@ public class GridEditor : Editor
     [MenuItem("Grid")]
     public static void Init()
     {
-        new GameObject("Grid", typeof(Grid));
+        new GameObject("Grid", typeof(Grid)); //set name (always)
     }
 
-    public override void OnInspectorGUI()
+    public override void OnInspectorGUI()  // sub menu
     {
         grid = (Grid)target;
 
