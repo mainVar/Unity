@@ -1,0 +1,184 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl 24_+part1-part1-eyepatch.part1-part1-eyepatch_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.788399 0.649423 0.493154
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\clothes_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_base.png
+
+newmtl 24_part1-part1-blackclothes_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.628041 0.482762 0.410410
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\clothes_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_base.png
+
+newmtl 24_part1-part1-clotheswhite_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.470844 0.533870 0.412476
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\clothes_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_base.png
+
+newmtl 24_part1-part1-skin_0.25_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.596538 0.663979 0.405334
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\2b_face_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_base.png
+
+newmtl 24_part1-part1-skirt_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.677946 0.403393 0.735125
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\clothes_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\clothes_base.png
+
+newmtl 24_part1-part2-face_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587817 0.716474 0.518714
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\2b_face_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_base.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_base.png
+
+newmtl 24_part1-part2-mouth_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.647684 0.635218 0.685921
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\2b_face_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_spe.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_base.png
+
+newmtl 24_part2-headband_0.9_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.546134 0.474854 0.721826
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\env.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\n.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\s.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\env.png
+
+newmtl 25_part1-part1-feathers_0.3_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.491652 0.727666 0.676566
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\L_6.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\n.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\env.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\L_6.png
+
+newmtl 25_part1-part2-eyeball_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.573825 0.744666 0.579213
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\2b_face_base.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\n.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\M_6.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\2b_face_base.png
+
+newmtl 25_part1-part2-lashes_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.753015 0.561696 0.414318
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\L_0.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\n.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\s.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\L_0.png
+
+newmtl 25_part2-hair1_0.7_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.704798 0.640292 0.723726
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\L_6.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\L_7.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\env.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\L_6.png
+
+newmtl 25_part2-hair2_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.670782 0.738229 0.442477
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\2B Nier;Automata by ShinyLightBulb\Model\hair_2.png
+map_Bump  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\hair_2_nrm.png
+map_Ks  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\env.png
+map_d  _download_now__2b_nier_automata__original_model__by_shinylightbulb-db34mzt\\2B Nier;Automata by ShinyLightBulb\\Model\\hair_2.png

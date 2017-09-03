@@ -1,10 +1,17 @@
 fileFormatVersion: 2
 guid: 0fef181f7137d844d98f896c324c5fa1
-timeCreated: 1501083505
+timeCreated: 1503927985
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - earth: {fileID: 1950333674137430, guid: b01204680417cca42a3dfe2a4959d959, type: 2}
+  - earthLongX: {instanceID: 0}
+  - earthLongY: {instanceID: 0}
+  - treesOnTop: {instanceID: 0}
+  - trees1: {instanceID: 0}
+  - trees2: {instanceID: 0}
+  - trees3: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

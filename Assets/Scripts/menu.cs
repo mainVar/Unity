@@ -29,30 +29,29 @@ public class menu : MonoBehaviour
     {
         playerUI.SetActive(!playerUI.activeSelf);
     }
- 
-    void Update() //using for timer (time (onli) - TIME)
+    private void FixedUpdate()
     {
         if (timer > 0)
         {
             timer -= Time.deltaTime;
             timerText.text = timer.ToString("Осталось:") + timer.ToString("f1");
-            timerFROM_TRIGERS = timer -0.9f;
+            timerFROM_TRIGERS = timer - 0.9f;
             timerFROM_TRIGERS -= Time.deltaTime;
         }
         if (timer <= 0)
         {
-           
-             Trees.bild_time = false; // Stops  RaycastHit in  Trees
-           
+
+            Trees.bild_time = false; // Stops  RaycastHit in  Trees
+
 
         }
-        if (timerFROM_TRIGERS<=0)
+        if (timerFROM_TRIGERS <= 0)
         {
             Trees.end = false;
-          //  UITEXT();
+            //  UITEXT();
         }
-
     }
+   
     private void UITEXT()
     {
         if (Trees.bild_time == false)// set off text info & timer text
